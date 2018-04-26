@@ -1,0 +1,6 @@
+C:\Users\w401\Desktop\a106082007\a106082007\bin\Debug\a106082007.exe.config
+C:\Users\w401\Desktop\a106082007\a106082007\bin\Debug\a106082007.exe
+C:\Users\w401\Desktop\a106082007\a106082007\bin\Debug\a106082007.pdb
+C:\Users\w401\Desktop\a106082007\a106082007\obj\Debug\a106082007.csprojResolveAssemblyReference.cache
+C:\Users\w401\Desktop\a106082007\a106082007\obj\Debug\a106082007.exe
+C:\Users\w401\Desktop\a106082007\a106082007\obj\Debug\a106082007.pdb
